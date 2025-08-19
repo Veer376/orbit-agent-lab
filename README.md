@@ -1,2 +1,6 @@
-# orbit-agent-lab
-This repository documents the architecture, design principles of Orbit Agent and benchmark - tasks, evaluation file and results of orbit agent tested on the benchmarks.
+# 🌕 Orbit Agent
+
+This repository contains the **architecture notes and design details** for the Orbit Agent project.  
+The actual implementation is private, but this document shares the reasoning, tradeoffs, and technical structure.  
+
+👉 See [ARCHITECTURE.md](./ARCHITECTURE.md)
